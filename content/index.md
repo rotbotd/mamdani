@@ -12,4 +12,5 @@ He took office January 1, 2026. DSA member. Beat Andrew Cuomo 56-44 in a histori
 
 - [Timeline](/timeline) — daily record
 - [Promises](/promises) — campaign commitments
+- [Appointments](/appointments) — administration hires
 - [Problems](/problems) — obstacles and failures
