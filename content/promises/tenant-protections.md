@@ -17,3 +17,15 @@ Then there's Executive Order 08, the "Rental Ripoff" hearings. MOPT along with H
 Now, under existing but underutilized law, the city already has the power to complete repairs itself and bill the landlord. Mamdani's platform explicitly says he'll use that power. And he's pledged to double the Alternative Enforcement Program and expand the Office of Special Enforcement so repeat offenders face higher fines.
 
 For the history: MOPT was originally created in 2019 under de Blasio through Executive Order 39. Then under Mayor Adams it was defunded and deprioritized. That's the "weakened" part. Adams also cut $25 million from the Anti-Harassment Tenant Protection program over three years, and fully cut funding for Neighborhood Pillars, a program that let the city work with tenant associations to purchase and renovate distressed buildings. So it wasn't just neglect, it was active dismantling of the infrastructure that existed to hold landlords accountable.
+
+## Since Taking Office
+
+Day 1: Executive Order 03 revitalized MOPT and appointed Cea Weaver as director. Weaver is a longtime housing organizer who helped lead the campaign for the 2019 rent law reforms. The appointment signals this isn't just bureaucratic reshuffling - they're putting movement people in charge.
+
+Mid-January: MOPT staff started going door-to-door in buildings with chronic violations, informing tenants of their rights and documenting conditions. This is the "proactive enforcement" approach Mamdani campaigned on - not waiting for complaints but going out and finding problems.
+
+January 16: The administration announced a $2.1 million settlement against a landlord for tenant harassment and unsafe conditions. Mamdani held the press conference in the lobby of the building itself, with affected tenants present. The staging matters: it's a signal to other bad landlords that the city is watching and will make examples.
+
+The borough hearings mandated by Executive Order 08 are being scheduled. These are supposed to be completed within the first 100 days, with a policy report due 90 days after the final hearing. So expect concrete enforcement proposals by late spring or early summer.
+
+See also: [[rent-freeze|Rent Freeze]], [[affordable-housing|Affordable Housing]], [[nycha|NYCHA]]

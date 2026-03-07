@@ -24,3 +24,17 @@ Liberals argue a rent freeze will cause landlords to defer maintenance or exit t
 The honest framing would be "if you limit how much owners can extract from tenants, owners will use every lever they have, including letting buildings rot, to reassert their extractive power", which, fine, that's probably true as a description of how property owners behave, but Mamdani also has direct control over regulation of exactly that.
 
 Regardless, Mamdani acknowledged this and said he'd push the state to lower property taxes and insurance costs for landlords, offsetting the freeze. This requires action from Albany, not just City Hall.
+
+## Since Taking Office
+
+The RGB path to a rent freeze hit complications before Mamdani even took office. In December 2025, outgoing Mayor Adams appointed four members to the board in a clear attempt to lock in a pro-landlord majority through Mamdani's first year. Board terms are staggered, so a new mayor can't sweep all nine members at once.
+
+But then things shifted. In early January, one of Adams' recent appointees dropped out. By mid-February, resignations had opened up six seats on the board.
+
+On February 18, 2026, Mamdani made six appointments to the RGB - giving him a majority. The new members include tenant advocates and housing researchers. The board will vote on rent increases for the 2026-2027 lease cycle in the coming months.
+
+This puts the rent freeze within reach for the first time. The vote typically happens in June after public hearings. If the Mamdani-appointed majority votes for a freeze (or even a rollback), it would be the first time in RGB history.
+
+The real question is whether landlords will challenge the freeze in court, and whether Albany will provide the property tax relief Mamdani promised to offset landlord costs. The city can freeze rents, but if the state doesn't cooperate on the fiscal side, the pressure on landlords (and their buildings) intensifies.
+
+See also: [[tenant-protections|Tenant Protections]], [[affordable-housing|Affordable Housing]]
