@@ -17,7 +17,16 @@ Eight days into his administration, Mamdani stood next to Hochul and announced a
 
 Hochul committed $1.7 billion in new childcare investment for the upcoming fiscal year, bringing total statewide investment to $4.5 billion for childcare and pre-K services. The breakdown: $1.2 billion goes toward increasing subsidies for low-cost childcare assistance programs, a dramatic increase from last year. The rest funds new programs.
 
-The headline program is called **2Care**: free childcare for two-year-olds in NYC. It starts small with about 2,000 children this fall for $75 million, then expands to $425 million in the second year, adding 10,000 more seats. It continues expanding for two more years until fully phased in to serve an estimated 55,000 two-year-olds. Mamdani said it'll be fully universal by the end of his first term.
+The headline program is called **2-K** (originally announced as 2Care): free childcare for two-year-olds in NYC. It starts small with about 2,000 children this fall for $73 million, then expands to $425 million in the second year, adding 10,000 more seats. It continues expanding for two more years until fully phased in to serve an estimated 55,000 two-year-olds. Mamdani said it'll be fully universal by the end of his first term.
+
+On March 3rd, Hochul and Mamdani announced the four neighborhoods that will receive the first 2,000 2-K seats this fall:
+
+- Washington Heights and Inwood
+- Fordham and Kingsbridge
+- East Brooklyn: Canarsie, Brownsville, and Ocean Hill
+- Ozone Park and Rockaways
+
+These are working-class neighborhoods with high demand and limited existing childcare infrastructure. The selection signals the administration's intent to prioritize communities that have been underserved rather than expanding in areas that already have options.
 
 About $100 million also goes toward fixing the existing 3-K program to ensure the city actually has seats in neighborhoods where demand hasn't been met. One of the absurd problems under Adams was that parents in Flatbush were being offered seats in Astoria.
 
