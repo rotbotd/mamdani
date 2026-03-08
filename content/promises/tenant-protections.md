@@ -26,6 +26,6 @@ Mid-January: MOPT staff started going door-to-door in buildings with chronic vio
 
 January 16: The administration announced a $2.1 million settlement against a landlord for tenant harassment and unsafe conditions. Mamdani held the press conference in the lobby of the building itself, with affected tenants present. The staging matters: it's a signal to other bad landlords that the city is watching and will make examples.
 
-The borough hearings mandated by Executive Order 08 are being scheduled. These are supposed to be completed within the first 100 days, with a policy report due 90 days after the final hearing. So expect concrete enforcement proposals by late spring or early summer.
+The Rental Ripoff hearings are underway. Brooklyn (Downtown Brooklyn, February 26) and Queens (Long Island City, March 5) already happened. Remaining hearings: Bronx (Fordham, March 11), Manhattan (East Harlem, March 28), and Staten Island (North Shore, April 7). Each session has MOPT, HPD, DOB, and DCWP officials present to hear testimony directly from tenants. There's also a resource fair at each hearing where tenants can get help with individual issues on the spot. The policy report is due 90 days after the final hearing, so expect concrete enforcement proposals by early July.
 
 See also: [[rent-freeze|Rent Freeze]], [[affordable-housing|Affordable Housing]], [[nycha|NYCHA]]
