@@ -16,4 +16,6 @@ Mayor Mamdani held his own remarks at the press conference. Notably, he continue
 
 The political dynamics are ugly. The far right will use this to paint counterprotesters as terrorists. Some will use the ISIS designation to attack Mamdani by association, despite him being the target of both the far-right protest and now this investigation. Mamdani's response — firmly condemning the violence while protecting protest rights — is the correct one, but it won't satisfy people looking to use this against him.
 
+The incident is part of a broader pattern of escalating hostility toward the city's first Muslim mayor. NYPD statistics show seven anti-Muslim hate crimes in January 2026, compared to zero in January 2025. Conservative radio host Sid Rosenberg — who later apologized — called Mamdani a "jihadist" and "radical Islam cockroach" last week. Council Member Vickie Paladino is facing disciplinary action for suggesting Muslims should be deported and claiming a Brooklyn-born Mamdani staffer wasn't American because she's Muslim. The suspects' attorney noted that Balat is a high school student with no prior history of violence or arrests, raising questions about how online radicalization brought him to this point.
+
 See also: [[2026-03-07-gracie|March 7 Protests]], [[2026-03-08-gracie-statement|Mamdani's Initial Statement]]
