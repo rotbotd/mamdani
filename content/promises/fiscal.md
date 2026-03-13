@@ -24,6 +24,12 @@ The gap between Mamdani's ambitions and his early governance is explained almost
 
 Without that revenue — roughly $9–11 billion/year from the income surcharge and corporate tax hike — the math for free buses, universal childcare, free CUNY, city grocery stores, and the Department of Community Safety simply doesn't work.
 
+## The Albany Budget Fight (March 2026)
+
+On March 10, both chambers of the state legislature released one-house budget resolutions backing Mamdani's tax proposals. The Senate and Assembly each included versions of the wealth tax, with the combined proposals potentially raising roughly $5 billion in additional revenue. Mamdani called it a recognition of "the scale of the fiscal crisis facing New York City." The City Council separately identified nearly $1.7 billion in potential savings in the preliminary budget.
+
+This was the first real sign that Albany might actually deliver. But one-house resolutions are opening positions — the final budget requires agreement between the Senate, Assembly, and Governor Hochul, who has remained steadfast in refusing to raise taxes. Republicans slammed the legislature for siding with Mamdani. The gap between the legislature's support and Hochul's resistance will define the budget negotiations through April.
+
 ## The Property Tax Threat
 
 Facing the deficit, Mamdani proposed a 9.5% property tax increase as a "last resort" if Albany refuses the income and corporate tax hikes. Council Speaker Menin opposes it. Comptroller Levine opposes it. Hochul is noncommittal.

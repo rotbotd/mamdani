@@ -24,9 +24,9 @@ He also supported hiring 200 lawyers for the city legal department.
 
 ## The Confrontation
 
-Mamdani called for abolishing ICE and confronted ICE acting director Tom Homan directly in Albany.
+Mamdani called for abolishing ICE outright — not reforming, not restructuring, abolishing. He confronted ICE acting director Tom Homan directly in Albany, which generated national media coverage and established him as the most visible municipal opponent of the Trump immigration agenda.
 
-He's proposed thinking "expansively" about protecting undocumented New Yorkers, referencing de Blasio's precedent of shredding personal documents from IDNYC applications — though this hasn't been repeated in other forums.
+He's proposed thinking "expansively" about protecting undocumented New Yorkers, referencing de Blasio's precedent of shredding personal documents from IDNYC applications. Under de Blasio, personal documents submitted for the municipal ID program were destroyed to prevent them from being used by federal immigration authorities. Mamdani hasn't repeated this specific proposal since the campaign (it appeared in a Jim Owles Liberal Democratic Club questionnaire), but the EO 13 data-sharing prohibitions serve a similar protective function through different means.
 
 ## Chief Immigration Officer
 
