@@ -20,6 +20,14 @@ Pledged to double city funding for the New York Abortion Access Fund and the Abo
 
 $20 million investment in Strong Foundations — a perinatal and early childhood mental health program addressing postpartum depression and early intervention.
 
+## The Nurses' Strike
+
+In January 2026, 15,000 private-hospital nurses represented by the NYS Nurses Association went on strike, seeking 10%-per-year raises (33% over three years) on top of already-high salaries averaging $162,000. Mamdani joined the picket line outside NewYork-Presbyterian — drawing immediate criticism that he was picketing against himself, since H+H had already committed to matching whatever contract the private hospitals settled on.
+
+The tension is real: the union strategically chose not to strike against H+H's public hospitals, making it easy for Mamdani to show solidarity without directly facing the consequences. But H+H's finances are already strained — the state comptroller warned in December 2025 that the system faces "tough fiscal sledding" from ongoing deficits, reduced federal funding, and a growing share of patients on Medicaid or uninsured. Matching the private-sector contract will cost the city money it doesn't have.
+
+This is the core contradiction of Mamdani's position: he's pro-labor and pro-public-healthcare, but the labor costs of public healthcare are a major driver of the fiscal crisis he's trying to solve. The Post called him "Comrade Mamdani" for it. The nurses got their contract.
+
 ## Leadership
 
 Renominated Dr. Mitchell Katz to lead H+H — continuity from the Adams administration on healthcare operations.
