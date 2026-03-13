@@ -6,7 +6,7 @@ These are my notes on Zohran Mamdani's administration. This is not itself a cita
 
 He took office January 1, 2026. DSA member. Beat Andrew Cuomo 56-44 in a historic upset victory.
 
-**→ [Latest: 2026-03-11-class-size](/timeline/2026-03-11-class-size)**
+**→ [Latest: 2026-03-13-tuberville](/timeline/2026-03-13-tuberville)**
 
 ## Sections
 
