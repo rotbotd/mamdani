@@ -48,3 +48,11 @@ The legal mechanism matters. A deed restriction can be challenged, modified, or 
 A notable evolution: Mamdani told the New York Times that housing was the one issue where he'd changed his mind: he came to recognize the importance of the private sector in solving the crisis. By October 2025, he told ABNY his 200,000 city-subsidized homes would be "additive" to private market construction, not a replacement. Vital City described this as a "soft-launched technocratic pivot."
 
 Worth watching whether the governing reality looks more like the early socialist framing or the later "additive" framing.
+
+## CityFHEPS: The Broken Promise
+
+One housing commitment has already been broken. During the campaign, Mamdani pledged to drop the Adams administration's legal challenge to CityFHEPS expansion laws — a City Council package that would make more people eligible for the nation's largest municipal rental assistance program and raise income thresholds. Instead, his lawyers are negotiating to narrow the program's scope.
+
+The fiscal pressure is real: CityFHEPS already costs $1.2 billion annually, the comptroller projects $2.6 billion next year, and full expansion could reach $20 billion over five years. But the promise was unambiguous and the need is dire — roughly 90,000 people are in city shelters, federal voucher programs are being wound down by the Trump administration, and the state's $50 million rental aid program hasn't issued a single voucher.
+
+The city has until March 25, 2026 to file its challenge at the state Court of Appeals. See [[/timeline/2026-03-03-cityfheps|CityFHEPS Voucher Reversal]] for the full timeline.
