@@ -30,6 +30,14 @@ On March 10, both chambers of the state legislature released one-house budget re
 
 This was the first real sign that Albany might actually deliver. But one-house resolutions are opening positions — the final budget requires agreement between the Senate, Assembly, and Governor Hochul, who has remained steadfast in refusing to raise taxes. Republicans slammed the legislature for siding with Mamdani. The gap between the legislature's support and Hochul's resistance will define the budget negotiations through April.
 
+## The Comptroller's Warning
+
+On March 11, Comptroller Mark Levine released an assessment projecting the budget gap at $6.5 billion — a full billion more than the administration's $5.4 billion figure. His office flagged overly optimistic revenue projections, the ballooning cost of CityFHEPS rental assistance ($2.6 billion projected for next year alone), and warned about geopolitical instability and a potential AI stock market correction causing major job losses.
+
+One notable grace note from Levine: he praised Mamdani for honest budgeting. The Adams administration systematically underestimated expenses and papered over structural problems. Mamdani's $127 billion preliminary budget reflects the true cost of programs — the number is alarming not because spending exploded but because the previous mayor was lying about it.
+
+See the [[/timeline/2026-03-11-comptroller-budget|comptroller's full assessment]].
+
 ## The Property Tax Threat
 
 Facing the deficit, Mamdani proposed a 9.5% property tax increase as a "last resort" if Albany refuses the income and corporate tax hikes. Council Speaker Menin opposes it. Comptroller Levine opposes it. Hochul is noncommittal.
